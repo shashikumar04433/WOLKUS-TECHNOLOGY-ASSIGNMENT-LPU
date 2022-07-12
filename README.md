@@ -31,7 +31,7 @@
   ### Author Details :
   
       Name : Shashi Kumar Reddy
-      College : LPU
+      College : Lovely Professional University.
       
 
 
