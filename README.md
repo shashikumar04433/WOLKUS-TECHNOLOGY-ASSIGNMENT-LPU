@@ -26,7 +26,7 @@
   
       Please use below url to access my application hosted on AWS Linux Server : 
       
-      URL : http://54.170.215.170/index.html 
+      URL : http://16.16.124.242/index.html
       If that doesnt work please go through the Index.html page .
       
   ### Author Details :
